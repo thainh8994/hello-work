@@ -1,2 +1,2 @@
 # hello-work
-just another repository
+the first time to use githup
